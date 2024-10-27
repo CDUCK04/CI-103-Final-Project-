@@ -1,6 +1,8 @@
-This project, developed by Team 6, is a game prototype designed and implemented in Unity with core functionality powered by C#. It showcases essential gameplay elements like character controls, NPC management, and environment interaction, all built within a modular, scalable code structure. 
-Through the integration of object-oriented principles and modular code organization, the project delivers a solid foundation for gameplay that can be further expanded and enhanced. Me Teimurazi Bakuradze worked on back end and wrote 99% of the code while other members helped me 
-with UI/UX, frontend and with the assembly of the enviroments. This project was very important to us and each member has put significant time in working on this. 
+This project, developed by Team 6, is a game prototype designed and implemented in Unity with core functionality powered by C#. 
+It features essential gameplay elements such as character controls, NPC management, and environmental interaction, all organized within a modular and scalable code structure. 
+By leveraging object-oriented principles and modular code organization, the project establishes a robust foundation for gameplay that can be further expanded and enhanced.
+I, Teimurazi Bakuradze, led the backend development and wrote all the code, while my team members focused on UI/UX, frontend design, and environment assembly. 
+Each member invested significant time and effort, making this project a collaborative and meaningful experience for our team.
 
 Key Features
 Character Controls: Implements responsive player controls using the Unity Input System, enhancing the player experience with smooth movement and interaction.
