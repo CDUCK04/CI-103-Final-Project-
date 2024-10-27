@@ -1,0 +1,2 @@
+Hey I'm Ethan. I'm a CS major at Drexel.
+I've had prior experience with programming in C# and making games in Unity.

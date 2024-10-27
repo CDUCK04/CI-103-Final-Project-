@@ -1,0 +1,2 @@
+Hello, my name is Claude and I am a computer science major at drexel.
+I've had previous experience with python and java. I also have some experience with unreal engine.

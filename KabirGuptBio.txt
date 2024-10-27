@@ -1,0 +1,2 @@
+My name is Kabir Gupt, and I am currently a student in Drexel University.
+I have had prior experience in programming in C# and making games via Unity.
